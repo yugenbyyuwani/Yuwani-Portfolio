@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:20;stroke-dasharray:none"
+       id="path1"
+       cx="16"
+       cy="16"
+       r="16" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.9037px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.722594"
+       x="6.2711248"
+       y="25.83181"
+       id="text1"
+       transform="scale(0.95602213,1.0460009)"><tspan
+         id="tspan1"
+         x="6.2711248"
+         y="25.83181"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.9037px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.722594">Y</tspan></text>
+  </g>
+</svg>
